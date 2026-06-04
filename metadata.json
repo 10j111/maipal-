@@ -1,0 +1,6 @@
+{
+  "name": "MaiPal 脉伴 ｜ 智能中医健康养生伴侣",
+  "description": "专为45-64岁群体打造的有温度的数字化健康挚友，香港理工大学设计学院 MedTech Lab 孵化项目，大湾区高品质中医与商界合作联盟路演页面。",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
